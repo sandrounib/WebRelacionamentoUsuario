@@ -1,0 +1,10 @@
+C:\Users\08929532845\Desktop\backend\WebRelacionamento\obj\Debug\netcoreapp2.0\WebRelacionamento.csproj.CoreCompileInputs.cache
+C:\Users\08929532845\Desktop\backend\WebRelacionamento\obj\Debug\netcoreapp2.0\WebRelacionamento.AssemblyInfoInputs.cache
+C:\Users\08929532845\Desktop\backend\WebRelacionamento\obj\Debug\netcoreapp2.0\WebRelacionamento.AssemblyInfo.cs
+C:\Users\08929532845\Desktop\backend\WebRelacionamento\bin\Debug\netcoreapp2.0\WebRelacionamento.deps.json
+C:\Users\08929532845\Desktop\backend\WebRelacionamento\bin\Debug\netcoreapp2.0\WebRelacionamento.runtimeconfig.json
+C:\Users\08929532845\Desktop\backend\WebRelacionamento\bin\Debug\netcoreapp2.0\WebRelacionamento.runtimeconfig.dev.json
+C:\Users\08929532845\Desktop\backend\WebRelacionamento\bin\Debug\netcoreapp2.0\WebRelacionamento.dll
+C:\Users\08929532845\Desktop\backend\WebRelacionamento\bin\Debug\netcoreapp2.0\WebRelacionamento.pdb
+C:\Users\08929532845\Desktop\backend\WebRelacionamento\obj\Debug\netcoreapp2.0\WebRelacionamento.dll
+C:\Users\08929532845\Desktop\backend\WebRelacionamento\obj\Debug\netcoreapp2.0\WebRelacionamento.pdb
